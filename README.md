@@ -54,7 +54,7 @@ This project includes four different code versions:
 
 ## **Wiring Diagram**
 You can see the wiring diagram created using Fritzing below:
-
+![Wiring Diagram](wiring.png)
 ---
 
 # Arduino Morse Trainer - Arduino ile Morse Kod Verici ve Çözücü
@@ -113,4 +113,4 @@ Bu proje için dört farklı kod versiyonu bulunmaktadır:
 
 ## **Bağlantı Şeması**
 Fritzing ile hazırlanmış bağlantı şemasını aşağıda görebilirsiniz:
-
+![Wiring Diagram](wiring.png)

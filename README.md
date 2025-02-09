@@ -13,7 +13,7 @@
 ### **LCD Connection (Parallel - Without I2C)**
 - VSS → GND  
 - VDD → 5V  
-- VO → GND for medium brightness (or use a potentiometer)  
+- VO → GND for medium brightness (or use a 10K potentiometer)  
 - RS → D7  
 - RW → GND  
 - EN → D8  
@@ -72,7 +72,7 @@ You can see the wiring diagram created using Fritzing below:
 ### **LCD Bağlantısı (Paralel - I2C Olmadan)**
 - VSS → GND  
 - VDD → 5V  
-- VO → Orta parlaklık için GND (veya potansiyometre)  
+- VO → Orta parlaklık için GND (veya 10K potansiyometre)  
 - RS → D7  
 - RW → GND  
 - EN → D8  
